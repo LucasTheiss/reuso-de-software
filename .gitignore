@@ -1,0 +1,26 @@
+/target/
+/estoque-inteligente.db
+/estoque-inteligente.db-journal
+/estoque-inteligente.db-wal
+/estoque-inteligente.db-shm
+/.venv/
+/.env
+__pycache__/
+/.pytest_cache/
+/instance/
+/%SystemDrive%/
+/.cartographer/
+/.impeccable/engine/
+/.impeccable/questions/
+/.impeccable/build/
+/.impeccable/mocks/
+/.impeccable/review/before/
+/.impeccable/review/rendered/
+/.impeccable/review/*.log
+
+# Arquivos locais e materiais de desenvolvimento
+/.idea/
+/output/
+/tmp/
+/.agents/
+/.impeccable/
